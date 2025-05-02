@@ -4,7 +4,7 @@
 
 ---
 
-## News
+## 📰 News
 
 📢 **Our paper on MixForecast has been accepted at [FMSys 2025](https://fmsys-org.github.io/2025/index.html)!**  
 Check out the publication below:
@@ -14,6 +14,32 @@ Check out the publication below:
 > In *Proceedings of the 2nd International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things (FMSys 2025)*  
 > [DOI: 10.1145/3722565.3727193](https://doi.org/10.1145/3722565.3727193)
 
+---
+
+
+---
+
+## 📄 Citation
+
+If you use MixForecast in your research or applications, please cite our paper:
+
+```bibtex
+@inproceedings{10.1145/3722565.3727193,
+  author = {Kumar, Anuj and Saravanan, Harish Kumar and Dwivedi, Shivam and Arjunan, Pandarasamy},
+  title = {MixForecast: Mixer-Enhanced Foundation Model for Load Forecasting},
+  year = {2025},
+  isbn = {9798400716089},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3722565.3727193},
+  doi = {10.1145/3722565.3727193},
+  booktitle = {Proceedings of the 2nd International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things},
+  pages = {25–30},
+  numpages = {6},
+  keywords = {Demand-side Load management, Energy Forecasting, Energy Informatics, Machine Learning, Short-term Load Forecasting (STLF), Smart Grid, Time Series Foundation Models (TSFM)},
+  location = {Irvine, CA, USA},
+  series = {FMSys}
+} ``` 
 ---
 
 ## 🌐 About MixForecast
