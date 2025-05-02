@@ -19,29 +19,8 @@ Check out the publication below:
 
 ---
 
-## 📄 Citation
-
-If you use MixForecast in your research or applications, please cite our paper:
 
 
-@inproceedings{10.1145/3722565.3727193,
-  author = {Kumar, Anuj and Saravanan, Harish Kumar and Dwivedi, Shivam and Arjunan, Pandarasamy},
-  title = {MixForecast: Mixer-Enhanced Foundation Model for Load Forecasting},
-  year = {2025},
-  isbn = {9798400716089},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3722565.3727193},
-  doi = {10.1145/3722565.3727193},
-  booktitle = {Proceedings of the 2nd International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things},
-  pages = {25--30},
-  numpages = {6},
-  keywords = {Demand-side Load management, Energy Forecasting, Energy Informatics, Machine Learning, Short-term Load Forecasting (STLF), Smart Grid, Time Series Foundation Models (TSFM)},
-  location = {Irvine, CA, USA},
-  series = {FMSys}
-}
-
----
 
 ## 🌐 About MixForecast
 
@@ -137,6 +116,32 @@ These Plots are for three consecutive windows of sequence length 168 (7 days) an
 
 - **MixForecast** outperforms NBEATS and TTMS on NRMSE metrics, demonstrating its robustness and accuracy for STLF tasks.
 - The architecture's focus on task-specific enhancements ensures adaptability to diverse building profiles.
+
+## 📄 Citation
+
+If you use MixForecast in your research or applications, please cite our paper:
+
+```bibtex
+@inproceedings{10.1145/3722565.3727193,
+  author = {Kumar, Anuj and Saravanan, Harish Kumar and Dwivedi, Shivam and Arjunan, Pandarasamy},
+  title = {MixForecast: Mixer-Enhanced Foundation Model for Load Forecasting},
+  year = {2025},
+  isbn = {9798400716089},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3722565.3727193},
+  doi = {10.1145/3722565.3727193},
+  booktitle = {Proceedings of the 2nd International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things},
+  pages = {25--30},
+  numpages = {6},
+  keywords = {Demand-side Load management, Energy Forecasting, Energy Informatics, Machine Learning, Short-term Load Forecasting (STLF), Smart Grid, Time Series Foundation Models (TSFM)},
+  location = {Irvine, CA, USA},
+  series = {FMSys}
+}
+```
+---
+
+
 
 ## Acknowledgements
 
