@@ -1,11 +1,37 @@
-# MixForecast: 
-Repository for our new foundation model MixForecast.
+# 🌀 MixForecast
 
-## MixForecast Model Overview
-Introducing MixForecast, a novel model combining N-BEATS and TSMixer blocks for accurate and efficient short-term load forecasting (STLF) in smart buildings, with fewer parameters and a design optimized for edge-device deployment.
+**Repository for our published foundation model, MixForecast, designed for efficient and accurate short-term load forecasting (STLF) in smart buildings.**
+
+---
+
+## 📰 News
+
+📢 **Our paper on MixForecast has been accepted at [FMSys 2025](https://doi.org/10.1145/3722565.3727193)!**  
+Check out the publication below:
+
+> **MixForecast: Mixer-Enhanced Foundation Model for Load Forecasting**  
+> *Anuj Kumar, Harish Kumar Saravanan, Shivam Dwivedi, Pandarasamy Arjunan*  
+> In *Proceedings of the 2nd International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things (FMSys 2025)*  
+> [DOI: 10.1145/3722565.3727193](https://doi.org/10.1145/3722565.3727193)
+
+---
+
+## 🌐 About MixForecast
+
+**MixForecast** is a novel **Time Series Foundation Model (TSFM)** that combines **N-BEATS** and **TSMixer** blocks to deliver lightweight, generalizable, and high-performing **short-term load forecasting (STLF)** for smart buildings. Designed for **edge-device deployment**, it uses approximately **0.19M parameters**, offering significant efficiency without compromising accuracy.
+
+### ✨ Key Features
+
+- 🧠 Hybrid architecture combining strengths of N-BEATS and TSMixer
+- 💡 Lightweight model with only ~0.19M parameters
+- 🏠 Trained on 63K smart meter time series from global buildings
+- 🌍 Tested on 1,000 commercial and residential buildings worldwide
+- 🔄 Supports both zero-shot and fine-tuned load forecasting
+- 📈 Outperforms Lag-Llama, Tiny Time Mixers, Moirai, Chronos, and traditional models
+
+---
 
 ![MixForecast Model Figure](plots/MixForecast_Diagram.png)
-
 
 
 ### Dataset Details
