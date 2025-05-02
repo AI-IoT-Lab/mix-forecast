@@ -14,7 +14,7 @@ Check out the publication below:
 > In *Proceedings of the 2nd International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things (FMSys 2025)*  
 > [DOI: 10.1145/3722565.3727193](https://doi.org/10.1145/3722565.3727193)
 
----
+
 
 
 ---
@@ -39,7 +39,7 @@ Check out the publication below:
 
 ![MixForecast Model Figure](plots/MixForecast_Diagram.png)
 
-
+---
 ### Dataset Details
 Details of Real Building Datasets Used for this Study (Hourly Data)
 
@@ -65,7 +65,7 @@ Details of Real Building Datasets Used for this Study (Hourly Data)
 | iFlex              | Norway       | 4,429            | 2020-2021   |
 | **Total**          |              | **64,103**       |             |
 
-
+---
 
 ## Results
 
@@ -97,7 +97,7 @@ The table below compares the forecasting performance of MixForecast with TSFMs i
 | Moirai - finetuned  |   23.34     | **66.50**  |
 | Lag-llama - finetuned  |     23.21    | 80.09   | 
 
-
+---
 ### Bareilly and Enernoc Building energy (KWh) time-series Visualization
 
 These Plots are for three consecutive windows of sequence length 168 (7 days) and prediction length 24 (1 day).
@@ -116,6 +116,7 @@ These Plots are for three consecutive windows of sequence length 168 (7 days) an
 
 - **MixForecast** outperforms NBEATS and TTMS on NRMSE metrics, demonstrating its robustness and accuracy for STLF tasks.
 - The architecture's focus on task-specific enhancements ensures adaptability to diverse building profiles.
+---
 
 ## 📄 Citation
 
