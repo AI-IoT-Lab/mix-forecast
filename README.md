@@ -1,12 +1,12 @@
-# 🌀 MixForecast
+# MixForecast
 
 **Repository for our published foundation model, MixForecast, designed for efficient and accurate short-term load forecasting (STLF) in smart buildings.**
 
 ---
 
-## 📰 News
+## News
 
-📢 **Our paper on MixForecast has been accepted at [FMSys 2025](https://doi.org/10.1145/3722565.3727193)!**  
+📢 **Our paper on MixForecast has been accepted at [FMSys 2025](https://fmsys-org.github.io/2025/index.html)!**  
 Check out the publication below:
 
 > **MixForecast: Mixer-Enhanced Foundation Model for Load Forecasting**  
