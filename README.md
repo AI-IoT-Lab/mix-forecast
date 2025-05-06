@@ -68,6 +68,8 @@ Check out the publication below:
 
 ---
 
+**Note:** The model and dataset will be made available on [HuggingFace](https://huggingface.co/ai-iot) shortly!
+
 ## Results
 
 Results are shown Below.
