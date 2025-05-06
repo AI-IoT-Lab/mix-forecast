@@ -41,8 +41,8 @@ Check out the publication below:
 
 ---
 ### Dataset Details
-Details of Real Building Datasets Used for this Study (Hourly Data)
-These datasets will be publicly available on Hugging Face soon.
+-Details of Real Building Datasets Used for this Study (Hourly Data).
+-These datasets will be publicly available on Hugging Face soon.
 
 | Dataset Name       | Location     | No. of Buildings | Years       |
 |--------------------|--------------|------------------|-------------|
